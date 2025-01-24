@@ -42,6 +42,9 @@ I have been passionate about software and technology since high school. I gradua
 - [Alloy](https://alloy.rs/)
 
 ## RUST SAMPLE REPOSITORIES
+
+Following are sample repositories I'm reviewing as I work on Intent Solving and arbitrage opportunities.
+
 - https://github.com/pawurb/univ3-revm-arbitrage
 - https://github.com/halo3mic/suave-alloy
 - https://github.com/Uniswap/uniswapx-artemis
