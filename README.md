@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I enjoy working with smart contracts similar to the work which I did on [eco-routes](https://github.com/eco/eco-routes/) but am interested in doing more work at the protocol/infrastructure level in (go and rust). Other areas of interest are intent based architectures specifically solving and arbitrage, as well as zk-circuits and their integration into cross-chain proving mechanisms. I'm happy working as an individual contributor or leading engineering teams, as have done so for a large part of my career.  Historically I've worked with Early Stage Startups 10-30 team members but am comfortable with both smaller and larger teams.
+I enjoy working with smart contracts similar to the work which I did on [eco-routes](https://github.com/eco/eco-routes/) and am interested in doing more work at the protocol/infrastructure level in (go and rust). Other areas of interest are intent based architectures specifically solving and arbitrage, as well as zk-circuits and their integration into cross-chain proving mechanisms. I'm happy working as an individual contributor or leading engineering teams, as have done so for a large part of my career.  Historically I've worked with Early Stage Startups 10-30 team members but am comfortable with both smaller and larger teams.
 
 I recently worked as a Senior Protocol Engineer, previously Engineering Manager at [Eco](https://eco.com) building a payment focused intent protocol on a dedicated L3 rollup. Read the docs [here](https://docs.eco.com/) and the code [here](https://github.com/eco/eco-routes).
 
