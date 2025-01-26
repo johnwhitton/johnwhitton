@@ -36,6 +36,7 @@ I have been passionate about software and technology since high school. I gradua
 - [The State of InterOp 2025](https://blog.li.fi/the-state-of-interop-2025-4a75d82a9bb9)
 - [Intent Collective: a list of working projects in the Intents ecosystem](https://github.com/EnsoFinance/IntentCollective)
 - [Illuminating Ethereum's Order Flow Landscape](https://writings.flashbots.net/illuminate-the-order-flow)
+- [Scaling Ethereum L1 and L2s in 2025 and beyond](https://vitalik.eth.limo/general/2025/01/23/l1l2future.html)
 
 ## RUST TOOLING
 - [Foundry](https://book.getfoundry.sh/getting-started/first-steps)
