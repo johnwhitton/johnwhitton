@@ -33,13 +33,23 @@ Here are some ideas to get you started:
 
 ## Overview
 
-I enjoy working with smart contracts similar to the work which I did on [eco-routes](https://github.com/eco/eco-routes/) and am interested in doing more work at the protocol/infrastructure level in (go and rust). Other areas of interest are intent based architectures specifically solving and arbitrage, as well as zk-circuits and their integration into cross-chain proving mechanisms. I'm happy working as an individual contributor or leading engineering teams, as have done so for a large part of my career.  Historically I've worked with Early Stage Startups 10-30 team members but am comfortable with both smaller and larger teams.
+Hello, I'm John, and I'm a Research/engineer, technical leader, and entrepreneur working at the intersection of blockchain infrastructure (Solving, Market Making, Arbitrage) and Decentralized protocols (Intents, Liquidity Management, Settlement). I have a track record of driving projects from conception to completion, identifying research gaps, and providing solutions. Finally, I love leading engineering teams and have the ability to drive collaboration across the organization and the entire ecosystem.
 
-I recently worked as a Senior Protocol Engineer, previously Engineering Manager at [Eco](https://eco.com) building a payment focused intent protocol on a dedicated L3 rollup. Read the docs [here](https://docs.eco.com/) and the code [here](https://github.com/eco/eco-routes).
+I use [jincubator](https://github.com/jincubator) for research and development of prototypes. [Here](https://johnwhitton.com/research/solving/intro) you'll find an overview of my work in 2025 on Solving, Arbitrage and Indexing, an opinionated architecture is [here](https://johnwhitton.com/research/solving/architecture). It uses [Tycho](https://docs.propellerheads.xyz/tycho/overview), Intents using [ERC-7683](https://www.erc7683.org/spec), [EIP-712](https://eips.ethereum.org/EIPS/eip-712), [Compactx](https://github.com/uniswap/compactx) and [Uniswap V4 Hooks](https://docs.uniswap.org/contracts/v4/overview).
 
-Previous work includes researching zero knowledge proofs, cryptographic primitives and consensus protocols. I also consult as a research engineer providing strategy, research, design and building out DeFi infrastructure including trustless bridging, web3 identity and wallets. Deployments have been on EVM compatible chains including [Ethereum](https://ethereum.org/en/) and [Harmony](https://www.harmony.one/). 
+As of July 2025 I'm currently wanting to collaborate with thought leaders in this space. Specifically I'm interested in
 
-Sample Projects include [Modulo OTP Wallet | 1wallet on Harmony](https://github.com/polymorpher/one-wallet) and the [Harmony Name Service](https://github.com/harmony-name-service/hns-implementation/blob/main/docs/DESIGN.md) an implementation of ENS on Harmony, initial development was done in the orgranization [jw-1ns](https://github.com/orgs/jw-1ns/repositories).
+- Grants and Bounties: Including Deliverable based grants around solving, routing, liquidity management
+- Consulting Work: I'm interested in work primarily Smart Contract work and RUST Development in the Solving and Intent based space
+- Full Time Roles: I'd enjoy working with a team in this space. TBD whether that will be launching the protocol I've been working with as part of a founding team or with a more established organization building out innovative frameworks in the space. I'm happy working as an individual contributor or leading engineering teams, as have done so for a large part of my career. Historically I've worked with Early Stage Startups 10-30 team members but am comfortable with both smaller and larger teams.
+
+Below is a quick professional summary, more detail can be found on [the resume page](https://johnwhitton.com/resume/intro)
+
+I worked as a Senior Protocol Engineer, previously Engineering Manager at [Eco](https://eco.com) building a payment focused intent protocol on a dedicated L3 rollup. Read the docs [here](https://docs.eco.com/) and the code [here](https://github.com/eco/eco-routes).
+
+I have researched zero knowledge proofs, cryptographic primitives and consensus protocols.
+
+I consulted as a research engineer providing strategy, research, design and building out DeFi infrastructure including trustless bridging, web3 identity and wallets. Deployments have been on EVM compatible chains including [Ethereum](https://ethereum.org/en/) and [Harmony](https://www.harmony.one/).
 
 I prototyped the DEX [Kanga Finance](https://github.com/kangafinance) (inspired by [Sushi](https://github.com/sushiswap)) and a DeFi parachain [eave.network](https://github.com/eavenetwork) (inspired by [Acala](https://github.com/acalanetwork)). Deployments on [Harmony](https://www.harmony.one/) and [Polkadot](https://polkadot.network/). As founder for these projects, I was responsible for writing whitepapers, reviewing legal infrastructure, and fundraising. Although projects had investor interest and were awarded [hackathon prizes](https://docs.google.com/presentation/d/1ZGrbKSaAdtzvMzVh0EVFBfUvA4SqiAeYVXGhJN7Orbs/edit#slide=id.g48989ac23a_0_0) the projects did not move forward due to a combination of team commitment, market fit and crypto market conditions.
 
@@ -47,10 +57,9 @@ Previously I was as an Ecosystem Architect at Harmony. Where I helped launch the
 
 I have worked extensively with decentralized financial protocols, bringing a unique perspective by combining my extensive corporate experience with IBM, SAP, Deloitte and KPMG with the disruptive financial models being developed on blockchain.
 
-My earlier career focused on enterprise applications, service oriented architectures and cross application business processes. Where I founded a consultancy firm which grew to $800k in revenue and ran from 2000-2009. One of my former clients, EFI ($1.6 billion market cap) brought me on as a Manager in Enterprise Systems Architecture where I remained for 6 years.
+My earlier career focused on enterprise applications, service oriented architectures and cross application business processes. Where I founded a consultancy firm which grew to $800k in revenues and ran from 2000-2009. One of my former clients, EFI ($1.6 billion market cap) brought me on as a Manager in Enterprise Systems Architecture where I remained for 6 years.
 
 I have been passionate about software and technology since high school. I graduated from the University of Queensland with a Bachelor of Science majoring in Computer Science before travelling globally leading the design and development of many Service Oriented Architectures and Blockchain implementations.
-
 ## Further Reading
 
 Following are some articles, research papers and repositories I've reviewed lately, which I think are valuable.
