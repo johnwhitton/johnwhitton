@@ -43,7 +43,7 @@ As of July 2025 I'm currently wanting to collaborate with thought leaders in thi
 - Consulting Work: I'm interested in work primarily Smart Contract work and RUST Development in the Solving and Intent based space
 - Full Time Roles: I'd enjoy working with a team in this space. TBD whether that will be launching the protocol I've been working with as part of a founding team or with a more established organization building out innovative frameworks in the space. I'm happy working as an individual contributor or leading engineering teams, as have done so for a large part of my career. Historically I've worked with Early Stage Startups 10-30 team members but am comfortable with both smaller and larger teams.
 
-Below is a quick professional summary, more detail can be found on [the resume page](https://johnwhitton.com/resume/intro)
+Below is a quick professional summary, more detail can be found on [my resume page](https://johnwhitton.com/resume/intro)
 
 I worked as a Senior Protocol Engineer, previously Engineering Manager at [Eco](https://eco.com) building a payment focused intent protocol on a dedicated L3 rollup. Read the docs [here](https://docs.eco.com/) and the code [here](https://github.com/eco/eco-routes).
 
