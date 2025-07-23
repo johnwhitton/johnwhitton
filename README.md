@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - [johnwhitton.com](https://johnwhitton.com): All about me, my work, writing, research etc.
 - [My Resume](https://resume.johnwhitton.com): One page resume in pdf format.
 - [Overview](https://overview.johnwhitton.com): A little infographic of my work history
-- [Writing](https://johnwhitton.com/posts.html) and [Research](https://johnwhitton.com/research.html): Some writing and research I've done (a little outdated)
+- [Writing](https://johnwhitton.com/writing/intro) and [Research](https://johnwhitton.com/research/intro): Some writing and research I've done 
 - [Uniswap v4](https://github.com/johnwhitton/uhi5-exercises): Completed exercises and references for the Uniswap Hook Incubator
 
 
